@@ -10,7 +10,7 @@ library(ggplotify)
 library(cowplot)
 #set and check my wd#####
 getwd()
-setwd("D:/PhD_29_09_2020/paper01_seasonality/review_rerun_Silva138/")
+setwd("PATH/TO/DATA/AND/WORKSPACE")
 getwd()
 #load my self created functions#####
 #return tabel with relativ abundances
